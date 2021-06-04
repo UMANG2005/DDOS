@@ -8,11 +8,11 @@ from banks to news websites, and present a major challenge to making sure people
 ### Requirements
 Python +2.x
 ### How to Run ?
-git clone https://github.com/Mr4FX/Hulk-ddos-attack
+git clone 
 
-chmod +x hulk.py
+chmod +x *
 
-python hulk.py
+python umang.py
 
 ### you don't need experince to understand it ...
 
